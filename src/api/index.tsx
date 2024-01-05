@@ -1,4 +1,4 @@
-const BASE = "http://localhost:8080";
+const BASE = "https://bpaste.cyclic.app";
 
 export const endpoints = {
   CREATE_PASTE: BASE + "/paste",
